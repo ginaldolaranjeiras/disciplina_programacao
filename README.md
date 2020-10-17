@@ -1,3 +1,3 @@
-# disciplina_programacao
-Exercícios desdenvolvidos na disciplina fundamentos de programação.
+# Disciplina Programacao
+Exercícios desdenvolvidos na disciplina fundamentos de programação com Python.
 
